@@ -3,3 +3,4 @@ venv
 venv/lib/python3
 packages
 venv/bin/Activate.ps1
+venv/bin
