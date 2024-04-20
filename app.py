@@ -1,5 +1,6 @@
 from flask import Flask, render_template, request, redirect
 from flask_mysqldb import MySQL
+#import mysql.connector
 import yaml
 
 app = Flask(__name__)
